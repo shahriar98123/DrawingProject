@@ -14,6 +14,7 @@
 		10B9961C218B732400F0EF55 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10B9961A218B732400F0EF55 /* LaunchScreen.storyboard */; };
 		10BC2AFF21937216008A4D93 /* ArtCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BC2AFE21937216008A4D93 /* ArtCollectionViewController.swift */; };
 		10BC2B02219377F5008A4D93 /* DrawingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BC2B01219377F5008A4D93 /* DrawingView.swift */; };
+		10BC2B04219382D3008A4D93 /* ArtCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BC2B03219382D3008A4D93 /* ArtCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		10B9961D218B732400F0EF55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		10BC2AFE21937216008A4D93 /* ArtCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtCollectionViewController.swift; sourceTree = "<group>"; };
 		10BC2B01219377F5008A4D93 /* DrawingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingView.swift; sourceTree = "<group>"; };
+		10BC2B03219382D3008A4D93 /* ArtCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				10B99615218B732300F0EF55 /* Main.storyboard */,
 				10B9961A218B732400F0EF55 /* LaunchScreen.storyboard */,
 				10BC2B01219377F5008A4D93 /* DrawingView.swift */,
+				10BC2B03219382D3008A4D93 /* ArtCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 			files = (
 				10B99614218B732300F0EF55 /* DrawingViewController.swift in Sources */,
 				10BC2AFF21937216008A4D93 /* ArtCollectionViewController.swift in Sources */,
+				10BC2B04219382D3008A4D93 /* ArtCell.swift in Sources */,
 				10B99612218B732300F0EF55 /* AppDelegate.swift in Sources */,
 				10BC2B02219377F5008A4D93 /* DrawingView.swift in Sources */,
 			);
