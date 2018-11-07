@@ -77,6 +77,10 @@
                                 </view>
                                 <color key="backgroundColor" red="0.9492823810476877" green="1" blue="0.14393944490589372" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <size key="customSize" width="200" height="250"/>
+                                <connections>
+                                    <outlet property="artImage" destination="vhn-18-cIX" id="iqy-mU-NQd"/>
+                                    <outlet property="artLabel" destination="agQ-5U-su2" id="dh1-T7-68K"/>
+                                </connections>
                             </collectionViewCell>
                         </cells>
                         <connections>
